@@ -30,6 +30,11 @@ header .links {
     text-decoration: none;
 }
 
+.links a img {
+    width: 90px;
+    height: 27px;
+    padding-top: 10px;
+}
 .board {
     width: 940px;
     height: 366px;
@@ -109,11 +114,11 @@ footer {
     padding: 23px;
     background-color: #EEEEEE;
     width: 100%;
+    display: flex;
     height: 62px;
     margin-top: 50px;
     align-items: center;
     justify-content: center;
-    position: fixed;
 
 }
 
