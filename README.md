@@ -20,7 +20,7 @@
 ## Preview
 
 <h1 align="center">
-    <img alt="" src="./layout/preview.png" width="940px" />
+    <img alt="" src="./layout/preview.PNG" width="940px" />
 </h1>
 
 
