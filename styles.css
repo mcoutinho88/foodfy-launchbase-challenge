@@ -188,3 +188,28 @@ footer p{
     font-size: 14px;
     color: #777777;
 }
+
+/* ==== ABOUT.HTML ====*/
+
+.about-foodfy, .how-started, .our-recipies {
+    margin: 0 auto;
+    width: 940px;
+}
+
+.about-foodfy strong, .how-started strong, .our-recipies strong {
+    font-size: 20px;
+    color: #111111;
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+
+.about-foodfy p, .how-started p, .our-recipies p {
+    font-size: 18px;
+    color: #444444;
+    line-height: 28px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+
